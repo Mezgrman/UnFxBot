@@ -1,5 +1,4 @@
 ADMIN_ONLY = False
-BLOCKLIST = []
 
 ACCEPTED_DOMAINS = {
     "fxtwitter.com": "twitter.com",
